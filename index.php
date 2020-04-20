@@ -1,5 +1,7 @@
 <?php
 
-echo "alteração";
+echo "alteração para conflito";
+
+echo "conflito"
 
 ?>
