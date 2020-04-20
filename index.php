@@ -1,7 +1,8 @@
 <?php
 
-echo "alteração merge";
+echo "alteração para conflito";
 
-echo "merge";
+echo "conflito"
+
 
 ?>
