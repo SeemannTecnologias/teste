@@ -1,5 +1,7 @@
 <?php
 
-echo "alteração";
+echo "alteração merge";
+
+echo "merge";
 
 ?>
